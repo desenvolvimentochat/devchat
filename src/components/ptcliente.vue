@@ -61,7 +61,7 @@ export default {
   font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 .btnenviarmsg{
-  position: absolute;
+  position: relative;
   margin-top: 640px;
   margin-left: 630px;
   width: 120px;
