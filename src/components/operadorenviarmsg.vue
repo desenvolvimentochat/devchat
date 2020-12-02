@@ -14,7 +14,7 @@
 
 <script>
 export default {
-  name: 'ptcliente',
+  name: 'operadorenviarmsg',
   props: {
     msg: String
   }
@@ -61,7 +61,7 @@ export default {
   font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 .btnenviarmsg{
-  position: relative;
+  position: absolute;
   margin-top: 640px;
   margin-left: 630px;
   width: 120px;

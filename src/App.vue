@@ -1,19 +1,16 @@
 <template>
   <div id="app">
-    <!-- <ptcliente />-->
-    <ptoperador />
+    <operadorenviarmsg />
   </div>
 </template>
 
 <script>
-//import ptcliente from './components/ptcliente.vue'
-import ptoperador from './components/ptoperador.vue'
+import operadorenviarmsg from './components/operadorenviarmsg.vue'
 
 export default {
   name: 'App',
   components: {
-    //ptcliente,
-    ptoperador
+    operadorenviarmsg
   }
 }
 </script>
