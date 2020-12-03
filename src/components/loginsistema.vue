@@ -38,7 +38,7 @@ export default {
 .logo{
   position: absolute;
   margin-top: 20px;
-  margin-left: 150px;
+  margin-left: 130px;
   width: 100px;
   height: 100px;
   border: 1px solid  rgb(141, 141, 141);
@@ -56,7 +56,7 @@ div.logo p {
 .hello{
   position: absolute;
   background-color: #FFF;
-  width:400px;
+  width:360px;
   height:300px;
   top: 50%;
   left: 50%;
@@ -69,7 +69,7 @@ div.logo p {
   position: absolute;
   margin-top: 160px;
   margin-left: 10px;
-  width: 370px;
+  width: 330px;
   height: 25px;
   border: 1px solid rgb(141, 141, 141);
   border-radius: 10px;  
@@ -79,7 +79,7 @@ div.logo p {
   position: absolute;
   margin-top: 220px;
   margin-left: 10px;
-  width: 370px;
+  width: 330px;
   height: 25px;
   border: 1px solid rgb(141, 141, 141);
   border-radius: 10px;
@@ -98,7 +98,7 @@ div.logo p {
 .cancelar{
   position: absolute;
   margin-top: 280px;
-  margin-left: 250px;
+  margin-left: 210px;
   width: 120px;
   height: 35px;
   background-color: rgb(141, 141, 141);
