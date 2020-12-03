@@ -6,7 +6,7 @@
 
 <script>
 
-/*import clienteenviarmsg from './components/clienteenviarmsg.vue'*/
+/*import cliente-enviarmsg from './components/cliente-enviarmsg.vue'*/
 import loginsistema from './components/loginsistema.vue' 
 
 export default {

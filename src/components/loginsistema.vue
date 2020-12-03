@@ -68,8 +68,8 @@ div.logo p {
 .login{
   position: absolute;
   margin-top: 160px;
-  margin-left: 10px;
-  width: 330px;
+  margin-left: 20px;
+  width: 310px;
   height: 25px;
   border: 1px solid rgb(141, 141, 141);
   border-radius: 10px;  
@@ -78,8 +78,8 @@ div.logo p {
 .senha{
   position: absolute;
   margin-top: 220px;
-  margin-left: 10px;
-  width: 330px;
+  margin-left: 20px;
+  width: 310px;
   height: 25px;
   border: 1px solid rgb(141, 141, 141);
   border-radius: 10px;
@@ -88,7 +88,7 @@ div.logo p {
 .entrar{
   position: absolute;
   margin-top: 280px;
-  margin-left: 30px;
+  margin-left: 35px;
   width: 120px;
   height: 35px;
   background-color: rgb(141, 141, 141);
@@ -98,7 +98,7 @@ div.logo p {
 .cancelar{
   position: absolute;
   margin-top: 280px;
-  margin-left: 210px;
+  margin-left: 200px;
   width: 120px;
   height: 35px;
   background-color: rgb(141, 141, 141);

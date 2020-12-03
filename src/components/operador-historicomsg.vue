@@ -14,7 +14,7 @@
 
 <script>
 export default {
-  name: 'clienteenviarmsg',
+  name: 'operador-historicomsg',
   props: {
     msg: String
   }
