@@ -1,16 +1,18 @@
 <template>
   <div id="app">
-    <operadorenviarmsg />
+    <loginsistema />
   </div>
 </template>
 
 <script>
-import operadorenviarmsg from './components/operadorenviarmsg.vue'
+
+/*import clienteenviarmsg from './components/clienteenviarmsg.vue'*/
+import loginsistema from './components/loginsistema.vue' 
 
 export default {
   name: 'App',
   components: {
-    operadorenviarmsg
+    loginsistema
   }
 }
 </script>

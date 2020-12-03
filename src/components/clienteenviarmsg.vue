@@ -14,7 +14,7 @@
 
 <script>
 export default {
-  name: 'recebermsg',
+  name: 'clienteenviarmsg',
   props: {
     msg: String
   }
