@@ -83,7 +83,6 @@ div.logo p {
   height: 25px;
   border: 1px solid rgb(141, 141, 141);
   border-radius: 10px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 .entrar{
   position: absolute;
